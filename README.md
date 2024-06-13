@@ -1,2 +1,1 @@
-# Demo
-This is my first file nice
+# A simple Chess game
